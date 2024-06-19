@@ -1,16 +1,23 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**littlehall8/littlehall8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Alyce Fernandes
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolovendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvido
+
+### voce entrar em contato comigo 📫
+
+alycesks18@gmail.com
+
+@imalycefernandes7
+
+![](https://media1.tenor.com/m/Ct95lbgVvBkAAAAC/inside-out-inside-out-2.gif)
+
+
+
+
+
+
